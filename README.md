@@ -1,16 +1,32 @@
-# Hi there! 👋
+# Welcome 👋
 
-I'm a digital creator passionate about technology, creativity, and well-being. I enjoy blending digital tools with immersive experiences that bring value to the community.
-
-Through my projects, I explore relaxation with **ASMR**, creating content designed to:
-- Reduce stress and anxiety 🌿
-- Improve focus and mental clarity 🧠
-- Help you fall asleep faster and sleep better 🌙✨
-
-🎧 If you're looking for a moment of peace or simply need to unwind, check out my Dailymotion channel where I share exclusive ASMR sessions:  
-
-👉 [Visit my channel here (https://www.dailymotion.com/Asmrbits)
+I'm a digital creator and tech enthusiast who enjoys working on projects at the intersection of **technology, creativity, and well-being**.  
+My repositories usually focus on digital experiments, automation, and ways to improve everyday workflows.
 
 ---
 
-💡 Always open to collaborating on creative and tech projects that combine innovation with well-being.
+### 🔧 Interests & Focus
+- Exploring creative applications of technology  
+- Building user-friendly digital experiences  
+- Researching how multimedia can support **mental health and relaxation**  
+- Experimenting with content that blends innovation and well-being  
+
+---
+
+### 🌐 Side Project: ASMR & Relaxation
+Outside of coding, I run a project focused on **ASMR (Autonomous Sensory Meridian Response)**, aiming to create relaxing experiences through sound and visuals.  
+This project helps people:  
+- Reduce stress and anxiety 🌿  
+- Improve focus and productivity 🧠  
+- Achieve better sleep quality 🌙✨  
+
+You can check it out here:  
+👉 [Dailymotion Channel](https://www.dailymotion.com/Asmrbits)  
+
+---
+
+### 🤝 Open to Collaboration
+I’m always open to collaborating on:  
+- Creative coding projects  
+- Multimedia tools for well-being  
+- Open-source experiments that mix art and technology
